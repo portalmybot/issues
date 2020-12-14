@@ -1,2 +1,2 @@
 # issues
-Informar errores y dar comentarios sobre las características de portalmybot.com
+Informar errores, sugerir ideas y dar comentarios sobre las características de portalmybot.com
