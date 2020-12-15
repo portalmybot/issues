@@ -2,7 +2,7 @@
 Informar errores, sugerir ideas y dar comentarios sobre las características de portalmybot.com
 
 
-## Cada Issue es una sugerencia, información, error, etc.. No todo en uno mismo 👍🏼
+## Cada Issue es una sugerencia, idea, información, error, etc.. No todo en uno mismo 👍🏼
 
 ## Ejemplo
 
